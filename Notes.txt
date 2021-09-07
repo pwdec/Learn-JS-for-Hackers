@@ -1,0 +1,8 @@
+Ex.
+
+<a href="x.com"> Html </a>
+
+<a> --> DOM
+href --> Attribute
+x.com --> Value
+html --> innerHTML
